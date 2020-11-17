@@ -1,0 +1,8 @@
+string node_id
+string username
+trajectory_msgs/JointTrajectory pick_trajectory
+trajectory_msgs/JointTrajectory move_trajectory
+trajectory_msgs/JointTrajectory place_trajectory
+---
+bool success
+string message
